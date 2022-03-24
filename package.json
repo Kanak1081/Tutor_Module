@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is backend part of Tutor Module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "MongoDB",
+    "Atlas",
+    "MongoDB",
+    "Compass",
+    "APIs",
+    "Postman",
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Kanak Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "razorpay": "^2.8.1"
+  }
+}
